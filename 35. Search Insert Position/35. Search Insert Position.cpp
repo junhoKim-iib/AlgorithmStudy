@@ -41,4 +41,4 @@ int main(){
     int result = S.searchInsert(nums, target);
 
     cout<<result;
-}
+} 
